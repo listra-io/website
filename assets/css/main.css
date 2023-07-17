@@ -5,5 +5,5 @@
 
 
 body{
-    @apply relative min-w-full w-[100vh]
+    @apply relative min-w-full w-full
 }
